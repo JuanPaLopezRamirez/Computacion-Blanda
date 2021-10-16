@@ -13,3 +13,8 @@ https://www.youtube.com/watch?v=6u-T8OyCLHU
 
 link del ejemplo de futbol con excalidraw:
 https://excalidraw.com/#json=5648945774592000,ned_h2aGSYCTKcZV1cnJEA
+
+Links de algunos de los codigos vistos en clase:
+https://colab.research.google.com/drive/1etgTXzQnv1W1VBVb9Pb2PzN6iMvRtjhL
+https://colab.research.google.com/drive/1jvAjF0sooOKvQb5Z_xYjT8oxJi4y-Y1Y
+https://colab.research.google.com/drive/1GvIz8nhlXlNY9AkXqoz_Fsf2u1pYNSdo
