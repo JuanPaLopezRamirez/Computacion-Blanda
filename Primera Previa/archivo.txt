@@ -1,1 +1,15 @@
-esto es un archivo .txt
+ESTE ARCHIVO CONTIENE LOS DISTINTOS LINKS DE ALGUNOS DE LOS TRABAJOS SUBIDOS EN ESTA CARPETA, CON EL FIN DE PREVENIR INCONVENIENTES POR SI ALGO FALLA.
+
+LINKS:
+
+Logica difusa 2:
+https://colab.research.google.com/drive/1UXjOjfBLMkyPWiMn_ZsZk_c6XGxT1UCq
+
+Logica difusa:
+https://colab.research.google.com/drive/1LiTUtyarsKHRPcb4JOLmvkM1naDfQJtW
+
+video de youtube (problema del avion):
+https://www.youtube.com/watch?v=6u-T8OyCLHU
+
+link del ejemplo de futbol con excalidraw:
+https://excalidraw.com/#json=5648945774592000,ned_h2aGSYCTKcZV1cnJEA
