@@ -1,0 +1,15 @@
+https://www.youtube.com/watch?v=aFZEvQDTSyA
+https://www.youtube.com/watch?v=6LLh3B0HUjs&t=745s
+https://www.youtube.com/watch?v=OUF531ctFQY
+https://www.youtube.com/watch?v=QtduJWqgpC0
+https://justcodeit.io/comparacion-de-imagenes-en-python-con-opencv-y-numpy/
+https://www.academia.edu/40600173/COMPARACIÓN_DE_IMÁGENES_EN_PYTHON_CON_opencv_Y_numpy_
+https://www.youtube.com/watch?v=80Z7ojUn3ao&t=81s
+https://www.youtube.com/watch?v=wjFLve0wZ7E
+
+-------------------------------------------------------------------------------------
+https://www.youtube.com/watch?v=OUF531ctFQY
+https://www.it-swarm-es.com/es/python-2.7/leer-varias-imagenes-en-una-carpeta-en-opencv-python/1057086468/
+https://rico-schmidt.name/pymotw-3/glob/
+https://stackoverflow.com/questions/52676020/imread-returns-none-violating-assertion-src-empty-in-function-cvtcolor-er
+
